@@ -1,4 +1,8 @@
-#How to get started in the task?
+# Conceptual_pain_pilot_task
+
+Pilot behavioural task from 'The conceptual basis of pain: exteroceptive cognition with interoceptive pain modulation'.
+
+## How to get started in the task?
  
 First download the whole folder and do not move the task app away from it.
  
@@ -15,7 +19,7 @@ If you want to get familiar with the task first, enter ‘00’ to load Session0
 Click on the Start button and enjoy!
 
 
-#What to do in the task?
+## What to do in the task?
 
 You will conduct a computer-based navigational task in a virtual environment by moving the mouse to control the movement direction. Your purpose is to obtain money (shown on the bottom-left corner of the screen) as much as possible.
 
@@ -26,7 +30,7 @@ Please do the whole experiment (i.e. finishing all 4 blocks in a session without
 Note after you finish all 4 blocks in a specific session, behavioural data and session information would be respectively saved in ‘ExpCharlie/ExpData/Data’ and ‘ExpCharlie/ExpData/Info’.
 
 
-#What would happen in the task?
+## What would happen in the task?
 
 When you are in the task, you are forced to move forward, and you could only move your mouse around to change the moving direction. 
 
@@ -35,7 +39,7 @@ You will obtain rewards (50p, which occur at random) once you enter into the cen
 Depending on your movement in virtual environment, you will receive a visual shock (with minus 10p every time it occurs) on your arms under some circumstances, following the rule which may change across blocks and sessions. Try to find out what causes the shock in each block and avoid them as many as possible.
 
 
-#What to do when getting tired?
+## What to do when getting tired?
 
 You will have short breaks between every two blocks. I would be verily grateful for your completion of each block, as each block will end in merely 4 minutes.
 
@@ -44,6 +48,6 @@ Yet if you get verily quite tired of staying in the current block, press ‘Q’
 If you get verily tremendously quite tired and want to exit the whole task, press 'Esc' (participants can’t do this in the formal experiment XD).
 
 
-#ATTENTION
+## ATTENTION
 
 Do not press other keyboard buttons not mentioned above!
