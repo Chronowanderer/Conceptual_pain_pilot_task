@@ -6,7 +6,7 @@ Pilot behavioural task from 'The conceptual basis of pain: exteroceptive cogniti
  
 First download the whole folder and do not move the task app away from it.
  
-Next open the task ('ExpTemp', the thunder icon). 
+Next open the task ('ExpTemp_Mac' for MacOS, and 'Experiment for Pain.exe' for Windows (not tested)). 
  
 Enter subject name as you like (e.g. Your last name). 
 
