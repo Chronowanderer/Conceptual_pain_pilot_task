@@ -12,7 +12,7 @@ Enter subject name as you like (e.g. Your last name).
 
 Enter cream side as 'L'. This does not affect your task (at this point).
  
-The session is priorly defined in the ‘ExpCharlie/ExpData/Settings’, and just enter the relative number: 
+The session is priorly defined in the ‘ExpData/Settings’, and just enter the relative number: 
 Enter ‘01’ (NOT '1') to load Session01.csv, and enter '02' (NOT '2') to load Session02.csv. 
 
 If you want to get familiar with the task first, enter ‘00’ (NOT '0') to load Session00.csv before doing Session 01 and 02. This pre-training session does not contain any shocks.
@@ -28,7 +28,7 @@ You will conduct a computer-based navigational task in a virtual environment by 
 
 Please do the whole experiment (i.e. finishing all 4 blocks in a session without quitting) with session 01 and 02 respectively, then compress the 'ExpData' folder and send it to me (yijia.yan@new.ox.ac.uk) via email.
 
-Note after you finish all 4 blocks in a specific session, behavioural data and session information would be respectively saved in ‘ExpCharlie/ExpData/Data’ and ‘ExpCharlie/ExpData/Info’.
+Note after you finish all 4 blocks in a specific session, behavioural data and session information would be respectively saved in ‘ExpData/Data’ and ‘ExpData/Info’.
 
 
 ## What would happen in the task?
