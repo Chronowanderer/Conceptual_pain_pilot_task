@@ -12,9 +12,10 @@ Enter subject name as you like (e.g. Your last name).
 
 Enter cream side as 'L'. This does not affect your task (at this point).
  
-The session is priorly defined in the ‘ExpCharlie/ExpData/Settings’, and just enter the relative number (i.e. enter ‘01’ to load Session01.csv, and enter '02' to load Session02.csv). 
+The session is priorly defined in the ‘ExpCharlie/ExpData/Settings’, and just enter the relative number: 
+Enter ‘01’ (NOT '1') to load Session01.csv, and enter '02' (NOT '2') to load Session02.csv. 
 
-If you want to get familiar with the task first, enter ‘00’ to load Session00.csv before doing Session 01 and 02. This pre-training session does not contain any shocks.
+If you want to get familiar with the task first, enter ‘00’ (NOT '0') to load Session00.csv before doing Session 01 and 02. This pre-training session does not contain any shocks.
 
 Click on the Start button and enjoy!
 
