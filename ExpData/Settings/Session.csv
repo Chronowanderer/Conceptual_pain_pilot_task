@@ -1,5 +1,5 @@
-trial,dangerCentreX,dangerCentreZ,possInteroLeft,possInteroNoLeft,possInteroRight,possInteroNoRight,possExteroDanger,possExteroNoDanger
-1,0.5,0.5,1,0,1,0,0,0
-2,0.5,0.5,0,0,0,0,1,0
-3,0.5,0.5,0,1,0,1,0,0
-4,0.5,0.5,0,0,0,0,0,1
+trial,dangerSide,dangerCentreX,dangerCentreZ,possInteroLeft,possInteroNoLeft,possInteroRight,possInteroNoRight,possExteroDanger,possExteroNoDanger
+1,L,0.5,0.5,0,0,0,0,0,0
+2,L,0.5,0.5,0,0,0,0,0,0
+3,L,0.5,0.5,0,0,0,0,0,0
+4,L,0.5,0.5,0,0,0,0,0,0

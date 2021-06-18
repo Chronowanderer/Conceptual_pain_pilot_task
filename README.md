@@ -13,9 +13,8 @@ Enter subject name as you like (e.g. Your last name).
 Enter cream side as 'L'. This does not affect your task (at this point).
  
 The session is priorly defined in the ‘ExpData/Settings’, and just enter the relative number: 
-Enter ‘01’ (NOT '1') to load Session01.csv, and enter '02' (NOT '2') to load Session02.csv. 
-
-If you want to get familiar with the task first, enter ‘00’ (NOT '0') to load Session00.csv before doing Session 01 and 02. This pre-training session does not contain any shocks.
+If you are not familiar with the task, please first enter ‘00’ (NOT '0') to load Session00.csv before doing formal sessions below. Please do at least two blocks.
+Then for the formal experiment, enter ‘01’ (NOT '1') to load Session01.csv to complete the whole session, and then enter '02' (NOT '2') to load Session02.csv to complete the whole session. 
 
 Click on the Start button and enjoy!
 
@@ -34,6 +33,8 @@ Note after you finish all 4 blocks in a specific session, behavioural data and s
 ## What would happen in the task?
 
 When you are in the task, you are forced to move forward, and you could only move your mouse around to change the moving direction. 
+
+You will always see the compass on the screen which shows your current allocentric head direction. Also use the sun to judge your current head direction when you get confused of where you are!
 
 You will obtain rewards (50p, which occur at random) once you enter into the a room where the invisible reward exists. You will soon know whether there is a reward in the room just by stepping into the room a bit, so no need to search the reward inside the room where no reward obtained (it must be in other rooms). You are encouraged to keep moving from room to room (rather than merely inside the room) in order to obtain rewards as many as possible. 
 
