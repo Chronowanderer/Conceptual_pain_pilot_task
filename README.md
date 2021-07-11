@@ -36,9 +36,9 @@ When you are in the task, you are forced to move forward, and you could only mov
 
 You will always see the compass on the screen which shows your current allocentric head direction. Also use the sun to judge your current head direction when you get confused of where you are!
 
-You will obtain rewards (50p, which occur at random) once you enter into the a room where the invisible reward exists. You will soon know whether there is a reward in the room just by stepping into the room a bit, so no need to search the reward inside the room where no reward obtained (it must be in other rooms). You are encouraged to keep moving from room to room (rather than merely inside the room) in order to obtain rewards as many as possible. 
+You will obtain rewards (100p, which occur at random) once you enter into the a room where the invisible reward exists. You will soon know whether there is a reward in the room just by stepping into the room a bit, so no need to search the reward inside the room where no reward obtained (it must be in other rooms). You are encouraged to keep moving from room to room (rather than merely inside the room) in order to obtain rewards as many as possible. 
 
-Depending on your movement in virtual environment, you will receive a visual shock (with minus 10p every time it occurs) on your arms under some circumstances, following the rule which may change across blocks and sessions. Try to find out what causes the shock in each block and avoid them as many as possible.
+Depending on your movement in virtual environment, you will receive a visual shock (with minus 30p every time it occurs) on your arms under some circumstances, following the rule which may change across blocks and sessions. Try to find out what causes the shock in each block and avoid them as many as possible.
 
 
 ## What to do when getting tired?
