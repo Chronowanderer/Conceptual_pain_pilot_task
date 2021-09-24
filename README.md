@@ -17,9 +17,14 @@ Enter subject name as you like (e.g. Your last name).
  
 (IMPORTANT!) Enter session number as following: 
 
-    In the first session, enter ‘00’ (NOT '0') to complete the tutorial session. Either the dangerous trun direction or dangerous rooms are provided before you play in each trial;
-    In the second session, enter ‘01’ (NOT '1') to complete the egocentric session. You need to find dangerous trun direction by yourself in each trial;
-    In the third session, enter '02' (NOT '2') to complete the allocentric session. You need to find dangerous rooms by yourself in each trial. 
+    In the first session, enter ‘00’ (NOT '0') to complete the tutorial session. 
+    Either the dangerous trun direction or dangerous rooms are provided before you play in each trial;
+    
+    In the second session, enter ‘01’ (NOT '1') to complete the egocentric session. 
+    You need to find dangerous trun direction by yourself in each trial;
+    
+    In the third session, enter '02' (NOT '2') to complete the allocentric session. 
+    You need to find dangerous rooms by yourself in each trial. 
 
 Enter cream side as 'L'. This does not affect your task (at this point).
 
@@ -32,7 +37,7 @@ You will conduct a computer-based navigational task in a virtual environment by 
 
 4 blocks are included in a single session, each of which lasts for 4 minutes. 
 
-Please do the whole 3 sessions, then compress the 'ExpData' folder and send it to me (yijia.yan@new.ox.ac.uk) via email.
+Please do the whole 3 sessions, then compress the 'ExpData' folder and send it to me (yijia.yan@ndcn.ox.ac.uk) via email.
 
 Note after you finish all 4 blocks in a specific session, behavioural data and session information would be respectively saved in ‘ExpData/Data’ and ‘ExpData/Info’.
 
@@ -46,14 +51,22 @@ You will always see the compass on the screen which shows your current allocentr
 You will always see the rewards obtained in the current trial both in the top-left and in the bottom progress bar:
 
     You will obtain rewards (10p, which occur at random) once you enter into the a room where the invisible reward exists. 
-    You will soon know whether there is a reward in the room just by stepping into the room a bit, so no need to search the reward inside the room where no reward obtained (it must be in other rooms). 
-    You are encouraged to keep moving from room to room (rather than merely inside the room) in order to obtain rewards as many as possible. 
+    
+    You will soon know whether there is a reward in the room just by stepping into the room a bit, 
+    so no need to search the reward inside the room where no reward obtained (it must be in other rooms). 
+    
+    You are encouraged to keep moving from room to room in order to obtain rewards as many as possible. 
+    
     At the end of each trial you will be informed of the real-time accumulated rewards across trials you obtained.
 
 Depending on your movement in virtual environment, you will receive a visual shock (with minus 30p every time it occurs) on your arms under some circumstances, following the rule which may change across trials: 
 
-    In the first tutorial session, you will be told about what causes the shock in the corresponding trial. Please avoid them as many as possible.
-    In the second and third session, you need to find out what causes the shock by yourself in each trial. Hints will be given before each trial. Please learn and avoid them as many as possible.
+    In the first tutorial session, you will be told about what causes the shock in the corresponding trial.
+    
+    In the second and third session, you need to find out what causes the shock by yourself in each trial. 
+    Hints will be given before each trial. 
+    
+    Please learn and avoid these shocks as many as possible.
 
 
 ## What to do when getting tired?
@@ -68,3 +81,12 @@ If you get verily tremendously quite tired and want to exit the whole task, pres
 ## ATTENTION
 
 Do not press other keyboard buttons not mentioned above!
+
+
+## Contact me
+
+Feel free to contact for any assistance and communication.
+
+Yijia (Charlie) Yan
+
+yijia.yan@ndcn.ox.ac.uk
