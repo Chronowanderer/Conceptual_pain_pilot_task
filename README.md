@@ -17,13 +17,13 @@ Enter subject name as you like (e.g. Your last name).
  
 (IMPORTANT!) Enter session number as following: 
 
-    In the first session, enter ‘00’ (NOT '0') to complete the tutorial session. 
+    In the first session, enter ‘00’ (NOT '0') to complete the training session with 4 trials. 
     Either the dangerous trun direction or dangerous rooms are provided before you play in each trial;
     
-    In the second session, enter ‘01’ (NOT '1') to complete the egocentric session. 
+    In the second session, enter ‘01’ (NOT '1') to complete the egocentric session with 8 trials.
     You need to find dangerous trun direction by yourself in each trial;
     
-    In the third session, enter '02' (NOT '2') to complete the allocentric session. 
+    In the third session, enter '02' (NOT '2') to complete the allocentric session with 8 trials. 
     You need to find dangerous rooms by yourself in each trial. 
 
 Enter cream side as 'L'. This does not affect your task (at this point).
@@ -35,11 +35,11 @@ Click on the Start button and enjoy!
 
 You will conduct a computer-based navigational task in a virtual environment by moving the mouse to control the movement direction. Your purpose is to obtain money (shown on the bottom-left corner of the screen) as much as possible.
 
-4 blocks are included in a single session, each of which lasts for 4 minutes. 
+8 trials are included in a single formal session (4 trials for the training session), each of which lasts for 2 minutes. 
 
 Please do the whole 3 sessions, then compress the 'ExpData' folder and send it to me (yijia.yan@ndcn.ox.ac.uk) via email.
 
-Note after you finish all 4 blocks in a specific session, behavioural data and session information would be respectively saved in ‘ExpData/Data’ and ‘ExpData/Info’.
+Note after you finish all trials in a specific session, behavioural data and session information would be respectively saved in ‘ExpData/Data’ and ‘ExpData/Info’.
 
 
 ## What will happen in the task?
@@ -59,11 +59,11 @@ You will always see the rewards obtained in the current trial both in the top-le
     
     At the end of each trial you will be informed of the real-time accumulated rewards across trials you obtained.
 
-Depending on your movement in virtual environment, you will receive a visual shock (with minus 30p every time it occurs) on your arms under some circumstances, following the rule which may change across trials: 
+Depending on your movement in virtual environment, you will receive a visual shock (with minus 10p every time it occurs) on your arms under some circumstances, following the rule which may change across trials: 
 
     In the first tutorial session, you will be told about what causes the shock in the corresponding trial.
     
-    In the second and third session, you need to find out what causes the shock by yourself in each trial. 
+    In the second and third formal sessions, you need to find out what causes the shock by yourself in each trial. 
     Hints will be given before each trial. 
     
     Please learn and avoid these shocks as many as possible.
@@ -71,7 +71,7 @@ Depending on your movement in virtual environment, you will receive a visual sho
 
 ## What to do when getting tired?
 
-You will have short breaks between every two trials. I would be verily grateful for your completion of each trial, as each trial will end in merely 4 minutes.
+You will have short breaks between every two trials. I would be verily grateful for your completion of each trial, as each trial will end in merely 2 minutes.
 
 Yet if you get verily quite tired of staying in the current block, press ‘Q’ to quit (participants can’t do this in the formal experiment XD) and go to the next trial.
 
