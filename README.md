@@ -8,6 +8,8 @@ Download the whole folder and do not move the task app away from it.
  
 Open the task ('ExpTemp_Mac' for MacOS, and 'The conceptual basis of pain.exe' for Windows). 
 
+Notice this task is the version without real shocks, but monetary punishment instead. For the real pilot experiment connected with shock stimulators, 'RealPainExp' on MacOS is used.
+
 
 ## How to start the task?
 
@@ -20,10 +22,10 @@ Enter subject name as you like (e.g. Your last name).
     In the first session, enter ‘00’ (NOT '0') to complete the training session with 4 trials. 
     Either the dangerous trun direction or dangerous rooms are provided before you play in each trial;
     
-    In the second session, enter ‘01’ (NOT '1') to complete the egocentric session with 8 trials.
+    In the second session, enter ‘01’ (NOT '1') to complete the egocentric session with 4 trials.
     You need to find dangerous trun direction by yourself in each trial;
     
-    In the third session, enter '02' (NOT '2') to complete the allocentric session with 8 trials. 
+    In the third session, enter '02' (NOT '2') to complete the allocentric session with 4 trials. 
     You need to find dangerous rooms by yourself in each trial. 
 
 Enter cream side as 'L'. This does not affect your task (at this point).
@@ -33,9 +35,9 @@ Click on the Start button and enjoy!
 
 ## What to do in the task?
 
-You will conduct a computer-based navigational task in a virtual environment by moving the mouse to control the movement direction. Your purpose is to obtain money (shown on the bottom-left corner of the screen) as much as possible.
+You will conduct a computer-based navigational task in a virtual environment by moving the mouse to control the movement direction. Your purpose is to obtain money as much as possible.
 
-8 trials are included in a single formal session (4 trials for the training session), each of which lasts for 2 minutes. 
+4 trials are included in a single formal session, each of which lasts for 4 minutes. 
 
 Please do the whole 3 sessions, then compress the 'ExpData' folder and send it to me (yijia.yan@ndcn.ox.ac.uk) via email.
 
@@ -71,7 +73,7 @@ Depending on your movement in virtual environment, you will receive a visual sho
 
 ## What to do when getting tired?
 
-You will have short breaks between every two trials. I would be verily grateful for your completion of each trial, as each trial will end in merely 2 minutes.
+You will have short breaks between every two trials. I would be verily grateful for your completion of each trial, as each trial will end in merely several minutes.
 
 Yet if you get verily quite tired of staying in the current block, press ‘Q’ to quit (participants can’t do this in the formal experiment XD) and go to the next trial.
 
