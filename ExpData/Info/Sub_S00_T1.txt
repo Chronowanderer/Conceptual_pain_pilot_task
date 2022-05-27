@@ -1,0 +1,20 @@
+﻿Name: Parameter
+subject: 
+creamSide: L
+session: 00
+trial: 1
+trialTotalNum: 0
+sessionStartTime: 2022-05-27 03:20:48
+trialStartTime: 2022-05-27 03:20:49
+dangerSide: L
+dangerCentreX: 0.5
+dangerCentreZ: 0.5
+possInteroLeft: 1
+possInteroNoLeft: 0
+possInteroRight: 1
+possInteroNoRight: 0
+possExteroDanger: 0
+possExteroNoDanger: 0
+contInteroLeft: 1
+contInteroRight: 1
+contExteroDanger: 0

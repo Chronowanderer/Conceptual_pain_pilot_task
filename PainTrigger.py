@@ -5,7 +5,7 @@ import time
 import socket
 
 
-CODE_TESTING = False
+CODE_TESTING = True
 
 HOST = "127.0.0.1"
 PORT = 60000
@@ -116,5 +116,6 @@ def Test(bodyPart, shockDuration):
 if __name__ == "__main__":
     if CODE_TESTING:
         Test(0, 100)
+        Test(1, 100)
     else:
         SocketConnection(HOST, PORT).connect()
