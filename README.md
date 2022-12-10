@@ -1,4 +1,4 @@
-# Conceptual_pain_pilot_task
+# Conceptual_pain_pilot_task (OUTDATED)
 
 Pilot behavioural task from 'The conceptual basis of pain: exteroceptive cognition with interoceptive pain modulation'.
 
